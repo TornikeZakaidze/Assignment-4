@@ -1,7 +1,6 @@
 /* HEADER */
 
 .htmllogo {
-    margin-right: 60px;
     margin-top: 54px;
     margin-left: 52px;
     display: inline-flex;
@@ -21,10 +20,14 @@ li {
 /* exact colors and sizes for links */
 .active {
     color: #4E6FAE;
+    margin-left: 60px;
+}
+.li1{
+    margin-left: 60px;
 }
 .li2 {
-    margin-left: 87px;
+    margin-left: 60px;
 }
 .li3 {
-    margin-left: 81px;
+    margin-left: 60px;
 }
