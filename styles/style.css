@@ -1,0 +1,30 @@
+/* HEADER */
+
+.htmllogo {
+    margin-right: 60px;
+    margin-top: 54px;
+    margin-left: 52px;
+    display: inline-flex;
+}
+
+.head {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0em;
+    display: inline-flex;
+}
+li {
+    color: #8D81FF;
+}
+
+/* exact colors and sizes for links */
+.active {
+    color: #4E6FAE;
+}
+.li2 {
+    margin-left: 87px;
+}
+.li3 {
+    margin-left: 81px;
+}
