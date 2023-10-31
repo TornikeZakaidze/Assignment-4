@@ -5,7 +5,6 @@
     margin-left: 52px;
     display: inline-flex;
 }
-
 .head {
     font-size: 26px;
     font-weight: 700;
@@ -31,3 +30,83 @@ li {
 .li3 {
     margin-left: 60px;
 }
+
+/* section */
+
+.container {
+    margin: auto;
+}
+.number p {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: Helvetica;
+    line-height: 28px;
+    color: #84FF81;
+}
+  .number {
+    width: 50px;
+    height: 50px;
+    background: #5012D5;
+}
+.may {
+    font-family: "BPG Nostalgia", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    color: #8D81FF;
+    margin-top: 26px;
+}
+.headimgtext {
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #4E6FAE;
+    font-family: "BPG Square", sans-serif;
+}
+.headimg {
+    margin-top: 14px;
+    display: inline-block;
+}
+.imgtext {
+    font-family: "BPG Square", sans-serif;
+    display: inline-block;
+    margin-top: 14px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 353px;
+    width: 778px;
+    color: #4E6FAE;
+    vertical-align: top;
+}
+.imgtextlast {
+    margin-top: 32px;
+    font-family: "BPG Square", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4E6FAE;
+    width: 1021px;
+    height: 148px;
+}
+
+/* footer */
+
+.facebook {
+    margin-top: 143px;
+}
+.vl {
+    margin-left: 41px;
+    display: inline-block;
+    border-left: 2px solid #5012D5;
+    height: 48px;
+  }
+  .youtube {
+    margin-left: 41px;
+  }
