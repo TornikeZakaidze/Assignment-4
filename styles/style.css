@@ -73,6 +73,7 @@ li {
     font-family: "BPG Square", sans-serif;
     display: inline-block;
     margin-top: 14px;
+    margin-left: 66px;
     font-size: 16px;
     font-weight: 700;
     line-height: 19px;
@@ -106,7 +107,11 @@ li {
     display: inline-block;
     border-left: 2px solid #5012D5;
     height: 48px;
-  }
+}
   .youtube {
     margin-left: 41px;
-  }
+}
+  .container {
+    width: 1300px;
+    margin: 0 auto;
+}
